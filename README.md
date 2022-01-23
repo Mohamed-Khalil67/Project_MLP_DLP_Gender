@@ -9,5 +9,3 @@ Dans le domaine de l'intelligence artificielle, la classification des sexes est 
 Par exemple, un système informatique doté de fonctions de reconnaissance du genre a un large éventail d'applications dans les domaines de la recherche fondamentale et appliquée, notamment l'interaction homme-machine, l'industrie de la sécurité et la surveillance, la recherche démographique, le développement commercial, les applications mobiles et les jeux vidéo.
 
 De plus, de multiples mécanismes sont proposés pour améliorer les performances de la reconnaissance du genre en termes de précision et d'efficacité.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
