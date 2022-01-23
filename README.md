@@ -2,10 +2,16 @@
 
 ## Introduction à la classification par sexe
 
-La classification par sexe suscite de plus en plus d'intérêt, car le sexe contient des informations riches et distinctes sur les activités sociales des hommes et des femmes. La classification des genres vise à reconnaître le genre d'une personne sur la base des caractéristiques qui différencient la masculinité et la féminité.
+## ça sert à quoi :
 
-Dans le domaine de l'intelligence artificielle, la classification des sexes est considérée comme l'une des plus importantes applications de la méthode de reconnaissance des formes. Les progrès réalisés dans la recherche sur la classification des sexes ont conduit à de nombreuses applications potentielles.
+Predicter le race , sexe et age. Dépendant du data UTK_face.
 
-Par exemple, un système informatique doté de fonctions de reconnaissance du genre a un large éventail d'applications dans les domaines de la recherche fondamentale et appliquée, notamment l'interaction homme-machine, l'industrie de la sécurité et la surveillance, la recherche démographique, le développement commercial, les applications mobiles et les jeux vidéo.
+Lien du dataset : https://susanqq.github.io/UTKFace/
 
-De plus, de multiples mécanismes sont proposés pour améliorer les performances de la reconnaissance du genre en termes de précision et d'efficacité.
+
+UTKFace dataset is a large-scale face dataset with long age span (range from 0 to 116 years old). The dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity.
+
+
+## Le but du MLP
+
+Dans le notebook : on va utiliser une multi layer de learning model pour réduire l'erreur du prédiction.
