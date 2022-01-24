@@ -4,17 +4,14 @@
 
 ## ça sert à quoi :
 
-Predicter le race , sexe et age. Dépendant du data UTK_face.
+Predicter sexe. Dépendant du data images des personnes.
 
 Lien du dataset : https://susanqq.github.io/UTKFace/
 
 
-UTKFace dataset is a large-scale face dataset with long age span (range from 0 to 116 years old). The dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity.
+UTKFace dataset is a large-scale face dataset with long age span (range from 0 to 116 years old). The dataset consists of over 20,000 face images with annotations of gender
 
 
 ## Le but du MLP
 
-Dans le notebook : 
 
-- Single modeling pour déterminer l'age , race et sexe chaqu'un seul et on verra la différence avec multi modeling.
-- Multi model de learning model pour réduire l'erreur du prédiction.
