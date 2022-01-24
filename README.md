@@ -14,4 +14,7 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 
 ## Le but du MLP
 
-Dans le notebook : on va utiliser une multi layer de learning model pour réduire l'erreur du prédiction.
+Dans le notebook : 
+
+- Single modeling pour déterminer l'age , race et sexe chaqu'un seul et on verra la différence avec multi modeling.
+- Multi model de learning model pour réduire l'erreur du prédiction.
