@@ -6,8 +6,6 @@
 
 Lien du dataset : https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 
-Notes sur les model de learning utilisé ( Transfer learning ):
-
 Pourquoi on utilise des transfer learning :
 
 To save time and resources from having to train multiple machine learning models from scratch to complete similar tasks. As an efficiency saving in areas of machine learning that require high amounts of resources such as image categorisation or natural language processing.
