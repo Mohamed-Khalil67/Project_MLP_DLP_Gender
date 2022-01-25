@@ -21,6 +21,9 @@ Confusions des matrix :
 ![confusion_matrix_2](https://user-images.githubusercontent.com/71330579/151059892-4afec747-e623-459c-85e8-7277745f4620.png)
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Resnet 18 ( refaire tout le systéme de learning plus rapidement ) :
 
 ResNet-18 is a convolutional neural network that is 18 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database
@@ -36,3 +39,5 @@ Use these steps to determine if your machine learning model, deep learning model
 * When my validation loss is equal, the model is either perfectly fit or in a local minimum.
 
 ![image](https://user-images.githubusercontent.com/71330579/151071199-e6971253-0cd9-4167-a45e-f30d25ce5bbf.png)
+
+C'est pour ça pour notre model resnet18 a une overfitting.
