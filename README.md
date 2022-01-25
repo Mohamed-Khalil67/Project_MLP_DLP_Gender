@@ -25,7 +25,7 @@ Resnet 18 ( refaire tout le systéme de learning plus rapidement ) :
 
 ResNet-18 is a convolutional neural network that is 18 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database
 
-How to see if my model is underfitting or overfitting?
+### How to see if my model is underfitting or overfitting?
 
 Finding optimal learning rates with the Learning Rate Range Test –  MachineCurve
 Use these steps to determine if your machine learning model, deep learning model or neural network is currently underfit or overfit.
