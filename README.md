@@ -40,4 +40,8 @@ Use these steps to determine if your machine learning model, deep learning model
 
 ![image](https://user-images.githubusercontent.com/71330579/151071199-e6971253-0cd9-4167-a45e-f30d25ce5bbf.png)
 
-C'est pour ça pour notre model resnet18 a une overfitting.
+- au premiére tests , il y avait une over fiting result des mauvaises choix des paramtres du fit_one_cycle
+- Mais aprés une autre deuxiéme résultat on a eu une meilleur précision ou plustôt raisonable
+
+![image](https://user-images.githubusercontent.com/71330579/151085835-8fd332bb-4ed0-4bb0-af5c-fc41d20ef53b.png)
+
